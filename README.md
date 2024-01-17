@@ -19,11 +19,12 @@ AZ News is a React-based news application designed to provide users with a seaml
 - Bootstrap (for styling)
 - NewsAPI (for fetching news)
 
-```bash
+
 # Clone the repository
 git clone https://github.com/your-username/az-news.git
 
-  ## Screenshots
+
+# Screenshots
 
 
 ![Alt text](<src/Components/Screenshots/Screenshot (90).png>)
