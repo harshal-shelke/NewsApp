@@ -26,11 +26,7 @@ git clone https://github.com/your-username/az-news.git
   ## Screenshots
 
 
-![Alt text](<src/Screenshots/Screenshot (90).png>)
-
-
-
-
+![Alt text](<src/Components/Screenshots/Screenshot (90).png>)
 
 
 
